@@ -4,9 +4,9 @@
 
 ## Metoda
 
-Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — znění zákona a výklad citované v [01-vymahani-prav-opatreni.md](01-vymahani-prav-opatreni.md) a [02-soud-prechodna-novely.md](02-soud-prechodna-novely.md) a úvodní výklad v [00-uvod.md](00-uvod.md). Repozitář **neobsahuje místní judikaturu** k zákonu; zásady níže jsou proto dovozeny z textu zákona, jeho systematiky, unijního původu a výkladu v kapitolách — nikoli z judikatorních tezí. Žádná citace v tomto souboru není převzata z rozhodnutí soudu a soubor neuvádí spisové značky. Tam, kde by u výkladu stála judikatorní opora, je namístě poctivě uvést, že v místních pramenech chybí.
+Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — znění zákona a výklad citované v [01-vymahani-prav-opatreni.md](01-vymahani-prav-opatreni.md) a [02-soud-prechodna-novely.md](02-soud-prechodna-novely.md) a úvodní výklad v [00-uvod.md](00-uvod.md). Zásady níže jsou dovozeny z textu zákona, jeho systematiky, unijního původu a výkladu v kapitolách. Složka [judikatura/](judikatura/README.md) obsahuje **pět místních karet** rozhodnutí Nejvyššího soudu, citovaných v kapitole 1 u § 2, § 3 a § 4; u zásad 2, 3, 5 a 6 je na příslušné karty odkázáno jako na doplňující oporu nebo zpřesnění, a to vždy s uvedením hranic jejich dosahu. Karta [NS 23 Cdo 1504/2024](judikatura/NS-23-Cdo-1504-2024.md) se k žádné zásadě nepřiřazuje, neboť vykládá čl. 101 odst. 1 SFEU, nikoli ustanovení ZVPPV. Jiné spisové značky soubor neuvádí; u zásad bez karty judikatorní opora v místních pramenech chybí.
 
-Každá citace v uvozovkách je doslovně převzata buď ze znění zákona (citační bloky kapitol), nebo z výkladových oddílů komentáře; u každé je uveden soubor a paragraf. Nadpis skupiny je orientační. Citace může vyjadřovat obecnou právní zásadu, ale také užší interpretační nebo aplikační pravidlo; její dosah proto nelze rozšiřovat nad rámec citovaného textu a systematického kontextu ustanovení.
+Každá citace v uvozovkách je doslovně převzata buď ze znění zákona (citační bloky kapitol), z výkladových oddílů komentáře, nebo z právní věty místní karty v podobě, v jaké ji cituje kapitola 1; u každé je uveden soubor a paragraf. Nadpis skupiny je orientační. Citace může vyjadřovat obecnou právní zásadu, ale také užší interpretační nebo aplikační pravidlo; její dosah proto nelze rozšiřovat nad rámec citovaného textu a systematického kontextu ustanovení.
 
 **Oficiální znění komentovaného předpisu:** [221/2006 Sb.](https://e-sbirka.gov.cz/sb/2006/221)
 
@@ -44,7 +44,7 @@ Praktickým důsledkem zásady je, že při pochybnostech o rozsahu nároku (nap
 
 ## 2. Přiměřenost zásahu do sféry porušovatele a třetích osob
 
-**Zakotvení:** § 3 odst. 2, § 4 odst. 2, § 5a odst. 1
+**Zakotvení:** § 3 odst. 2, § 4 odst. 2, § 5a odst. 1; místní karty [NS 23 Cdo 2765/2012](judikatura/NS-23-Cdo-2765-2012.md) a [NS 23 Cdo 1411/2021](judikatura/NS-23-Cdo-1411-2021.md)
 
 Odrazující povaha prostředků ochrany je vyvážena zásadou přiměřenosti, kterou zákon na několika místech výslovně normuje. U práva na informace stanoví § 3 odst. 2 větu druhou:
 
@@ -64,11 +64,13 @@ Komentář z toho vyvozuje, že „zničení je tak krajním prostředkem“ (01
 
 — [01-vymahani-prav-opatreni.md](01-vymahani-prav-opatreni.md), § 5a
 
+Zásadu přiměřenosti zpřesňují dvě místní karty. Podle karty [NS 23 Cdo 2765/2012](judikatura/NS-23-Cdo-2765-2012.md) se § 3 odst. 2 aplikuje i v samostatném řízení o informace po pravomocném vyslovení porušení; kapitola k tomu uvádí, že se v takovém řízení uplatní „i jeho věta druhá o zamítnutí žaloby pro nepoměr k závažnosti porušení“ (01, § 3). Vůči zprostředkovatelům, kteří sami právo porušovat nemusí, omezuje zásah karta [NS 23 Cdo 1411/2021](judikatura/NS-23-Cdo-1411-2021.md): lze jim uložit jen zdržení se poskytování určitých prostředků či služeb, a to „podle okolností v úplném nebo částečném rozsahu“ (01, § 4). Obě karty neuvádějí skutkový kontext; karta k § 4 odst. 3 je z 24. 1. 2023, tedy pozdější než místní konsolidace k 28. 12. 2018.
+
 Praktickým důsledkem je, že petit směřující k nejtvrdším opatřením (zničení, rozsáhlé informační povinnosti) je třeba vždy podepřít tvrzením o závažnosti porušení a o nedostatečnosti mírnějších prostředků.
 
 ## 3. Objektivní a preventivní povaha negatorní ochrany
 
-**Zakotvení:** § 4 odst. 1 a 3
+**Zakotvení:** § 4 odst. 1 a 3; místní karta [NS 23 Cdo 1411/2021](judikatura/NS-23-Cdo-1411-2021.md)
 
 Zdržovací a odstraňovací nároky jsou koncipovány jako ochrana samotného výlučného práva, nikoli jako sankce za zaviněné jednání. Komentář k § 4 to formuluje takto:
 
@@ -88,7 +90,7 @@ Komentář z toho dovozuje preventivní funkci: „Zahrnutí ohrožení umožňu
 
 — [01-vymahani-prav-opatreni.md](01-vymahani-prav-opatreni.md), § 4 odst. 3
 
-Praktickým důsledkem zásady je, že žalovaný se zdržovacímu nároku nemůže bránit pouhým tvrzením o nevědomosti; dobrá víra má význam až pro peněžité vyrovnání (§ 4 odst. 4) a pro peněžité nároky (§ 5). Zásada však nezakládá obecnou monitorovací povinnost zprostředkovatelů — tu komentář z § 4 odst. 3 bez dalšího nedovozuje.
+Praktickým důsledkem zásady je, že žalovaný se zdržovacímu nároku nemůže bránit pouhým tvrzením o nevědomosti; dobrá víra má význam až pro peněžité vyrovnání (§ 4 odst. 4) a pro peněžité nároky (§ 5). Objektivní povaha nároku vůči zprostředkovateli však neznamená, že jeho obsah je stejný jako vůči porušovateli. Podle místní karty [NS 23 Cdo 1411/2021](judikatura/NS-23-Cdo-1411-2021.md) lze prostředníkovi uložit jen zdržení se poskytování určitých prostředků nebo služeb, „nikoli však taková povinnost, která v konečném důsledku představuje určení konkrétního způsobu, jakým se má prostředník takového poskytování (teprve) vyvarovat“ (01, § 4). Monitorovací či kontrolní povinnost proto z § 4 odst. 3 uložit nelze; kapitola k tomu uvádí, že tuto otázku, dříve ponechanou jako výkladovou, „řeší karta“. Hranice: rozhodnutí z 24. 1. 2023 je pozdější než místní konsolidace a karta neuvádí skutkový kontext ani znění, z něhož soud vycházel.
 
 ## 4. Diferenciace podle dobré víry porušovatele
 
@@ -116,7 +118,7 @@ Důkazní břemeno ohledně dobré víry nese ten, kdo se jí dovolává — u p
 
 ## 5. Plné odčinění újmy bez dvojího plnění a paušalizace náhrady
 
-**Zakotvení:** § 5 odst. 1, 2 a 4
+**Zakotvení:** § 5 odst. 1, 2 a 4; místní karta [NS 23 Cdo 2213/2017](judikatura/NS-23-Cdo-2213-2017.md)
 
 Peněžité nároky podle § 5 sledují plné odčinění majetkové i nemajetkové újmy oprávněné osoby. Základ tvoří § 5 odst. 1:
 
@@ -136,11 +138,13 @@ Plnost odčinění má však svou mez v zákazu obohacení oprávněné osoby. K
 
 — [01-vymahani-prav-opatreni.md](01-vymahani-prav-opatreni.md), § 5 odst. 2 a 3
 
+Plné odčinění má i osobní mez: nemajetkovou újmu odčiňuje porušovatel. Podle místní karty [NS 23 Cdo 2213/2017](judikatura/NS-23-Cdo-2213-2017.md) se zadostiučinění za nemajetkovou újmu způsobenou porušením práva průmyslového vlastnictví „oprávněná osoba může domáhat pouze vůči porušovateli, nikoli vůči tzv. prostředníkovi“ (01, § 4). Hranice: karta výslovně řeší jen zadostiučinění, nikoli náhradu škody a vydání bezdůvodného obohacení; její druhá věta (ochrana dobré pověsti právnické osoby podle § 19b odst. 3 obč. zák.) se týká dřívějšího občanského zákoníku (zákon č. 40/1964 Sb.).
+
 Praktickým důsledkem zásady je, že oprávněná osoba může volit mezi paušálem a prokazováním skutečné škody (je-li vyšší), avšak souběh nároků nesmí vést k tomu, že tatáž ztráta bude odčiněna dvakrát.
 
 ## 6. Specialita a výběrová aplikace vůči obecné úpravě
 
-**Zakotvení:** § 1, § 5a odst. 1; novelizační části § 9–14
+**Zakotvení:** § 1, § 2 odst. 1, § 5a odst. 1; novelizační části § 9–14; místní karta [NS 23 Cdo 1780/2017](judikatura/NS-23-Cdo-1780-2017.md)
 
 ZVPPV je zvláštní úpravou, která obecné soukromé právo nepřekrývá celé, nýbrž jen v otázkách, jež sám řeší. Komentář k § 1 vymezuje tento vztah takto:
 
@@ -148,7 +152,7 @@ ZVPPV je zvláštní úpravou, která obecné soukromé právo nepřekrývá cel
 
 — [01-vymahani-prav-opatreni.md](01-vymahani-prav-opatreni.md), § 1
 
-K výkladové otázce, zda prostředky ZVPPV vylučují souběžné obecné nároky podle občanského zákoníku, komentář uzavírá, že se jeví přiléhavé, že „ZVPPV obecné nároky doplňuje a zesiluje, nikoli zužuje“ (01, § 1). Specialita působí i směrem k jednotlivým zákonům na ochranu průmyslového vlastnictví: novelizační části z nich dílčí úpravu porušování práv vypustily. Ke změně patentového zákona komentář uvádí:
+K výkladové otázce, zda prostředky ZVPPV vylučují souběžné obecné nároky podle občanského zákoníku, komentář uzavírá, že se jeví přiléhavé, že „ZVPPV obecné nároky doplňuje a zesiluje, nikoli zužuje“ (01, § 1). Vazba ZVPPV na zvláštní předpisy přitom není omezena na předpisy české: podle místní karty [NS 23 Cdo 1780/2017](judikatura/NS-23-Cdo-1780-2017.md) nejsou zvláštními právními předpisy podle § 2 odst. 1 míněny jen české právní předpisy upravující práva průmyslového vlastnictví (01, § 2); karta neuvádí, o jaký konkrétní nečeský předpis šlo, a rozhodnutí z 6. 12. 2017 předchází novele č. 286/2018 Sb. Specialita působí i směrem k jednotlivým zákonům na ochranu průmyslového vlastnictví: novelizační části z nich dílčí úpravu porušování práv vypustily. Ke změně patentového zákona komentář uvádí:
 
 > „Praktický důsledek: § 75 PatZ se dnes uplatní jen na ostatní práva chráněná PatZ (např. ze zlepšovacích návrhů), kdežto porušení patentu a dodatkového ochranného osvědčení se posuzuje podle ZVPPV.“
 

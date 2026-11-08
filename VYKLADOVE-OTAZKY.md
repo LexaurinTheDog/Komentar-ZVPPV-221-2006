@@ -2,7 +2,7 @@
 
 <!-- LOCAL-VYKLADOVE-OTAZKY-GENERATED -->
 
-> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře. Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva ani místní karty rozhodnutí zatím k dispozici nejsou. Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
+> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře. Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva k dispozici není; složka [judikatura/](judikatura/README.md) obsahuje pět místních karet rozhodnutí Nejvyššího soudu, citovaných v kapitole 1 u § 2, § 3 a § 4 (viz otázku 9). Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
 
 ## Jak dokument používat
 
@@ -77,6 +77,7 @@ Místní znění a modalitní mapa výslovně zachycují například tyto časov
 - [§ 2 odst. 2 místní znění — se nevyžaduje](01-vymahani-prav-opatreni.md): „Souhlas se nevyžaduje, jestliže ve lhůtě 1 měsíce od doručení oznámení nabyvatele o porušení či ohrožení práva nezahájil vlastník či majitel práva řízení ve věci porušení či ohrožení práva sám.“
 - [§ 3 odst. 2 místní znění — může se domáhat](01-vymahani-prav-opatreni.md): „Není-li informace podle odstavce 1 poskytnuta dobrovolně v přiměřené lhůtě, může se jí oprávněná osoba domáhat návrhem u soudu v řízení o porušení práva.“
 - [§ 7 odst. 1 místní znění — se dokončí](02-soud-prechodna-novely.md): „Řízení ve věcech správního soudnictví, týkajících se průmyslového vlastnictví, v nichž bylo zahájeno řízení před dnem účinnosti tohoto zákona, se dokončí podle dosavadních předpisů.“
+- [§ 3 — výklad](01-vymahani-prav-opatreni.md): „podle místní karty NS 23 Cdo 2765/2012 se § 3 odst. 2 aplikuje i v samostatném řízení o informace, zahájeném po pravomocném skončení řízení, v němž bylo vysloveno porušení práva.“ Slova „v řízení o porušení práva“ tedy nevyžadují uplatnění v témže řízení.
 - [§ 2 — výklad](01-vymahani-prav-opatreni.md): „Zahájením řízení“ je podle komentáře podání žaloby (či návrhu na předběžné opatření) vlastníkem či majitelem: „ve věci téhož porušení. Zahájí-li vlastník řízení, licenciát se může domáhat ochrany svých zájmů v jeho rámci podle obecných procesních pravidel.“
 
 **Jak ji řešit.** Sestavte časovou osu od zjištění porušení přes oznámení vlastníkovi (u licenciáta), výzvu třetí osobě, podání žaloby u Městského soudu v Praze, rozhodnutí specializovaného senátu až po odvolání k Vrchnímu soudu v Praze; u správní linie rozhodnutí Úřadu → rozklad → žaloba → kasační stížnost. U každé lhůty určete počátek, konec, možnost prodloužení či prominutí a následek zmeškání; hmotněprávní měsíční lhůtu § 2 odst. 2 nezaměňujte s procesní lhůtou.
@@ -105,7 +106,7 @@ Reprezentativní místní normativní vazby:
 - [§ 5 odst. 3 místní znění](01-vymahani-prav-opatreni.md): „jestliže porušovatel při výkonu činností nevěděl ani nemohl vědět, že svým jednáním porušuje práva, paušální částkou nejméně ve výši licenčního poplatku …“
 - [§ 5a — výklad](01-vymahani-prav-opatreni.md): „U rušitele v dobré víře odst. 3 paušál nepřipouští; náhrada se pak určuje obecným způsobem podle OZ.“
 
-**Jak ji řešit.** Spojte porušenou primární normu (výlučné právo podle zvláštního zákona nebo § 504 a § 2985 OZ) se sekundárním následkem podle ZVPPV, aktivně legitimovanou osobou, příslušným soudem a obsahem petitu. Oddělte objektivní negatorní nároky, peněžité nároky a uveřejnění rozsudku; vyloučte dvojí odškodnění téže majetkové ztráty. Správní ani trestní sankce ZVPPV neupravuje.
+**Jak ji řešit.** Spojte porušenou primární normu (výlučné právo podle zvláštního zákona nebo § 504 a § 2985 OZ) se sekundárním následkem podle ZVPPV, aktivně legitimovanou osobou, příslušným soudem a obsahem petitu. Oddělte objektivní negatorní nároky, peněžité nároky a uveřejnění rozsudku; vyloučte dvojí odškodnění téže majetkové ztráty. Vůči zprostředkovateli (§ 4 odst. 3) omezte petit na zdržení se poskytování určitých prostředků či služeb a zadostiučinění za nemajetkovou újmu po něm nepožadujte (místní karty [NS 23 Cdo 1411/2021](judikatura/NS-23-Cdo-1411-2021.md) a [NS 23 Cdo 2213/2017](judikatura/NS-23-Cdo-2213-2017.md)). Správní ani trestní sankce ZVPPV neupravuje.
 
 **Místní opora.** [Právní následky, odpovědnost, sankce a ochrana](HLOUBKOVY-VYKLAD.md); [místní modality](PRAVNI-MODALITY.md); [místní zásady](ZASADY.md)
 
@@ -130,14 +131,19 @@ Typický střet: u obchodního tajemství § 5a výslovně nepřenáší § 4 od
 ## 9. Co skutečně plyne z místní judikatury a kde jsou její hranice?
 
 **Odpověď pro tento komentář.**
-Repozitář zatím neobsahuje místní karty rozhodnutí; složka `judikatura/` bude doplněna strojově později. V systematickém souboru zásad je odkazováno na **0** místních karet s použitelnou citací a kapitoly neuvádějí žádnou spisovou značku.
-- [Úvod — poznámka k metodě](00-uvod.md): „Komentář neobsahuje judikaturu ani spisové značky; tam, kde by výklad potřeboval oporu v rozhodovací praxi, otevřeně uvádí výkladovou otázku a argumenty pro jednotlivá řešení.“
+Složka [judikatura/](judikatura/README.md) obsahuje **5 místních karet** rozhodnutí Nejvyššího soudu (všechna kat. A); kapitola 1 je cituje u § 2, § 3 a § 4 a za každou připojuje odstavec „K místní judikaturní kartě …“. Karty obsahují jen kurátorskou právní větu; skutkový stav ani znění, z něhož soud vycházel, neuvádějí.
 
-Místní korpus neposkytuje citovatelnou judikatorní tezi; judikatorní odpověď se proto nesmí domýšlet. Jde o **mezeru**, nikoli o doklad, že rozhodovací praxe neexistuje.
+- **§ 2 odst. 1 — [NS 23 Cdo 1780/2017](judikatura/NS-23-Cdo-1780-2017.md) (přímo):** zvláštními právními předpisy, z nichž plyne oprávnění užívat právo, nejsou míněny jen české předpisy. Hranice: konkrétní nečeský předpis karta neuvádí; rozhodnutí z 6. 12. 2017 předchází novele č. 286/2018 Sb.
+- **§ 3 odst. 2 — [NS 23 Cdo 2765/2012](judikatura/NS-23-Cdo-2765-2012.md) (přímo):** [§ 3 — výklad](01-vymahani-prav-opatreni.md): „Akcesorita nároku (viz výklad výše) je tedy vazbou na zjištěné porušení práva, nikoli na jedno a totéž řízení.“ Hranice: karta neřeší, zda předchozí řízení muselo směřovat proti téže osobě; rozhodnutí z 23. 5. 2017.
+- **§ 3 — [NS 23 Cdo 1504/2024](judikatura/NS-23-Cdo-1504-2024.md) (jen nepřímo):** karta vykládá čl. 101 odst. 1 SFEU u selektivní distribuce luxusních výrobků, nikoli informační nárok. [§ 3 — karta](01-vymahani-prav-opatreni.md): „Pro § 3 z karty neplyne nic o rozsahu informačního nároku.“ Hranice: rozhodnutí z 30. 4. 2025 je pozdější než místní konsolidace k 28. 12. 2018 a karta neuvádí rozhodnou dobu.
+- **§ 4 odst. 3 — [NS 23 Cdo 1411/2021](judikatura/NS-23-Cdo-1411-2021.md) (přímo):** prostředníkovi lze uložit jen zdržení se poskytování určitých prostředků či služeb (úplně, nebo částečně), nikoli určit způsob, jak se má poskytování vyvarovat; tím je vyřešena i otázka monitorovacích povinností. Hranice: rozhodnutí z 24. 1. 2023 je pozdější než místní konsolidace; přenos závěru předpokládá shodné znění § 4 odst. 3.
+- **§ 4 odst. 3 a § 5 odst. 1 — [NS 23 Cdo 2213/2017](judikatura/NS-23-Cdo-2213-2017.md) (nepřímo):** zadostiučinění za nemajetkovou újmu jen vůči porušovateli, nikoli vůči prostředníkovi; ochranu dobré pověsti právnické osoby nelze opřít o § 19b odst. 3 dřívějšího občanského zákoníku. Hranice: druhá věta se týká zákona č. 40/1964 Sb.; o náhradě škody a bezdůvodném obohacení vůči prostředníkovi karta nemluví.
 
-**Jak ji řešit.** Po doplnění složky `judikatura/` u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění (před novelou č. 286/2018 Sb. nebo po ní) a stejný právní problém. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo; do té doby ponechte sporné body jako výkladové otázky.
+Ostatních 13 komentovaných jednotek (§ 1, § 5, § 5a, § 6–15) místní kartu nemá; tam zůstávají sporné body výkladovými otázkami. Absence karty je **mezerou** místního korpusu, nikoli dokladem, že k otázce rozhodnutí neexistuje.
 
-**Místní opora.** [místní zásady a metoda](ZASADY.md); [úvodní místní výklad](00-uvod.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
+**Jak ji řešit.** U každé karty oddělte právní větu, ustanovení, k němuž míří (přímo, nebo nepřímo), a skutkové či procesní předpoklady, které z karty nelze zjistit. Ověřte, zda soud vykládal stejné znění: rozhodnutí z roku 2017 předcházejí novele č. 286/2018 Sb., rozhodnutí z let 2023 a 2025 mohou vycházet ze znění pozdějšího než místní konsolidace k 28. 12. 2018. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo (např. řízení proti jiné osobě u § 3 odst. 2, náhrada škody vůči prostředníkovi u § 4 odst. 3).
+
+**Místní opora.** [judikatura/](judikatura/README.md); [§ 2–4](01-vymahani-prav-opatreni.md); [místní zásady a metoda](ZASADY.md); [úvodní místní výklad](00-uvod.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
 
 ## 10. Jaké systematické, kolizní a časové vazby mohou změnit odpověď?
 
@@ -158,8 +164,8 @@ Místní korpus neposkytuje citovatelnou judikatorní tezi; judikatorní odpově
 Místní kapitoly výslovně zachycují například tyto otázky nebo námitky:
 - [§ 1 — souběh nároků podle ZVPPV a občanského zákoníku](01-vymahani-prav-opatreni.md)
 - [§ 2 — smluvní vyloučení oprávnění licenciáta; předčasná žaloba licenciáta](01-vymahani-prav-opatreni.md)
-- [§ 3 — informační nárok proti samotnému porušovateli; řízení proti jiné osobě](01-vymahani-prav-opatreni.md)
-- [§ 4 — monitorovací povinnosti zprostředkovatelů](01-vymahani-prav-opatreni.md)
+- [§ 3 — informační nárok proti samotnému porušovateli; řízení proti jiné osobě](01-vymahani-prav-opatreni.md) (otázku, zda lze informace žalovat i v samostatném řízení po pravomocném vyslovení porušení, řeší místní karta [NS 23 Cdo 2765/2012](judikatura/NS-23-Cdo-2765-2012.md) kladně; řízení proti jiné osobě karta neřeší)
+- [§ 4 — monitorovací povinnosti zprostředkovatelů](01-vymahani-prav-opatreni.md) — již nejde o otevřenou otázku: řeší ji místní karta [NS 23 Cdo 1411/2021](judikatura/NS-23-Cdo-1411-2021.md), podle níž lze prostředníkovi uložit jen zdržení se poskytování, nikoli určit způsob, jak se má poskytování vyvarovat
 - [§ 5 — souhrnný, nebo samostatný paušál](01-vymahani-prav-opatreni.md)
 - [§ 5a — přiměřenost zničení bez odkazu na § 4 odst. 2](01-vymahani-prav-opatreni.md)
 - [§ 6 — příslušnost u obchodního tajemství a hranice sporů „o nárocích vycházejících z průmyslového vlastnictví“](02-soud-prechodna-novely.md)
@@ -168,7 +174,7 @@ Místní kapitoly výslovně zachycují například tyto otázky nebo námitky:
 
 Ilustrace: [§ 2 — kazuistika, varianty](01-vymahani-prav-opatreni.md): „nedostatek legitimace by mohl odpadnout jen tehdy, uplyne-li lhůta do rozhodnutí, aniž M zahájí řízení (výkladová otázka).“
 
-**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický, účelový a eurokonformní argument, praktický následek a důvod, proč jeden převáží. Místní judikatorní argument zatím chybí; není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
+**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický, účelový a eurokonformní argument, praktický následek a důvod, proč jeden převáží. Místní judikatorní argument je k dispozici jen u § 2 odst. 1, § 3 odst. 2 a § 4 odst. 3 (viz otázku 9); u ostatních sporů chybí. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
 
 **Místní opora.** [kapitola 1](01-vymahani-prav-opatreni.md); [kapitola 2](02-soud-prechodna-novely.md); [místní zásady](ZASADY.md)
 
@@ -186,9 +192,9 @@ Aplikační vrstvu lze ověřit zejména v: [01-vymahani-prav-opatreni](01-vymah
 ## 13. Co komentář dosud neví a kdy se musí aktualizovat?
 
 **Odpověď pro tento komentář.**
-Současný místní korpus tvoří **úvod a 2 kapitoly** a **0** karet rozhodnutí, doplněné samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
+Současný místní korpus tvoří **úvod a 2 kapitoly** a **5** karet rozhodnutí Nejvyššího soudu ve složce [judikatura/](judikatura/README.md), doplněné samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
 Kontrolní mezery zjištěné podle místní struktury:
-- místní judikatura neposkytuje citovatelnou tezi (složka `judikatura/` bude doplněna strojově později);
+- místní karty pokrývají jen § 2, § 3 a § 4; 13 komentovaných jednotek kartu nemá a karty neuvádějí skutkový stav ani znění, z něhož soud vycházel (rozhodnutí z let 2023 a 2025 mohou vykládat znění pozdější než místní konsolidace);
 - místní důvodová zpráva není k dispozici;
 - konkrétní datum vyhlášení zákona místní konsolidace neuvádí;
 - obsah zrušených ustanovení novelizovaných zákonů místní konsolidace neuvádí;

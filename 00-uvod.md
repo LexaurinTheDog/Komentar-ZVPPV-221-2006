@@ -2,7 +2,7 @@
 
 > **Znění k 28. prosinci 2018** (dokument e-Sbírky `SB-2006-00221_2018-12-28`). Komentář je zpracován **výhradně z lokálních materiálů**; nevyužívá živé komerční právní databáze.
 >
-> **Metodická poznámka:** Výklad vychází z konsolidovaného znění účinného od 28. 12. 2018, které je nejnovějším místně dostupným zněním zákona; do něj se promítá novela provedená zákonem č. 286/2018 Sb., jež vložila § 5a o porušení obchodního tajemství a změnila název zákona. Kde komentář pracuje se souvisejícími předpisy (zákon o soudech a soudcích, jednotlivé zákony na ochranu průmyslového vlastnictví, občanský zákoník, občanský soudní řád, soudní řád správní), vychází z jejich místně dostupných znění a na nesoulad dřívějších odkazů s dnešním stavem výslovně upozorňuje. Místní materiály neobsahují k zákonu samostatnou judikaturní sbírku; komentář proto neuvádí žádné spisové značky a sporné body označuje jako **výkladové otázky** s odůvodněním vycházejícím z textu zákona, jeho systematiky a unijního původu.
+> **Metodická poznámka:** Výklad vychází z konsolidovaného znění účinného od 28. 12. 2018, které je nejnovějším místně dostupným zněním zákona; do něj se promítá novela provedená zákonem č. 286/2018 Sb., jež vložila § 5a o porušení obchodního tajemství a změnila název zákona. Kde komentář pracuje se souvisejícími předpisy (zákon o soudech a soudcích, jednotlivé zákony na ochranu průmyslového vlastnictví, občanský zákoník, občanský soudní řád, soudní řád správní), vychází z jejich místně dostupných znění a na nesoulad dřívějších odkazů s dnešním stavem výslovně upozorňuje. Z místních zdrojů bylo ke komentáři doplněno **pět karet rozhodnutí Nejvyššího soudu** (složka [judikatura/](judikatura/README.md)), citovaných v kapitole 1 u § 2, § 3 a § 4; u každé karty kapitola samostatně vysvětluje, co z ní pro dané ustanovení plyne a kde jsou hranice závěru. Ostatní sporné body komentář označuje jako **výkladové otázky** s odůvodněním vycházejícím z textu zákona, jeho systematiky a unijního původu.
 
 ---
 
@@ -26,21 +26,21 @@ Zákon má **16 paragrafových jednotek** (§ 1 až § 5, § 5a a § 6 až § 15
 | [01](01-vymahani-prav-opatreni.md) | **Část první** — předmět úpravy, osoby oprávněné vymáhat práva, právo na informace, opatření k nápravě, náhrada škody, vydání bezdůvodného obohacení a přiměřené zadostiučinění, porušení obchodního tajemství | § 1–5a |
 | [02](02-soud-prechodna-novely.md) | **Části druhá až desátá** — zvláštní působnost Městského soudu v Praze, přechodná ustanovení, změny zákona o soudech a soudcích, zákona o vynálezech a zlepšovacích návrzích, zákona o ochraně topografií polovodičových výrobků, zákona o užitných vzorech, zákona o ochraně průmyslových vzorů, zákona o ochraně označení původu a zeměpisných označení a zákona o ochranných známkách, účinnost | § 6–15 |
 
-Doprovodné přehledy: [ZASADY.md](ZASADY.md) (právní zásady doložené doslovnými citacemi z kapitol) a [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) (mapa normativních modalit zákona).
+Doprovodné přehledy: [ZASADY.md](ZASADY.md) (právní zásady doložené doslovnými citacemi z kapitol), [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) (mapa normativních modalit zákona) a [judikatura/](judikatura/README.md) (pět místních karet rozhodnutí Nejvyššího soudu).
 
 ## Klíčové instituty
 
 ### Oprávněné osoby a postavení nabyvatele licence
 
-Vymáhat práva podle zákona může **oprávněná osoba** (§ 2 odst. 1): vlastník nebo majitel práva, osoba oprávněná užívat právo — zejména nabyvatel licence — a profesní organizace ochrany práv uznávaná v zemi původu. Nabyvatel licence je však omezen (§ 2 odst. 2): potřebuje **souhlas** vlastníka či majitele, ledaže ten ve **lhůtě 1 měsíce** od doručení oznámení o porušení či ohrožení práva sám nezahájil řízení.
+Vymáhat práva podle zákona může **oprávněná osoba** (§ 2 odst. 1): vlastník nebo majitel práva, osoba oprávněná užívat právo — zejména nabyvatel licence — a profesní organizace ochrany práv uznávaná v zemi původu. Nabyvatel licence je však omezen (§ 2 odst. 2): potřebuje **souhlas** vlastníka či majitele, ledaže ten ve **lhůtě 1 měsíce** od doručení oznámení o porušení či ohrožení práva sám nezahájil řízení. Zvláštními právními předpisy, z nichž může plynout oprávnění k užívání práva, nejsou podle místní karty NS 23 Cdo 1780/2017 míněny jen české předpisy.
 
 ### Právo na informace
 
-§ 3 dává oprávněné osobě nástroj k odhalení **původu a distribučních sítí** zboží a služeb porušujících právo. Nárok směřuje vůči vymezeným třetím osobám (držitelům zboží, uživatelům a poskytovatelům služeb, osobám označeným jako účastníci výroby či distribuce), uplatňuje se po marné výzvě **návrhem v řízení o porušení práva** a podléhá výslovnému **testu přiměřenosti**. Zvláštní předpisy o mlčenlivosti, zákazu sebeobviňování a ochraně osobních údajů zůstávají nedotčeny.
+§ 3 dává oprávněné osobě nástroj k odhalení **původu a distribučních sítí** zboží a služeb porušujících právo. Nárok směřuje vůči vymezeným třetím osobám (držitelům zboží, uživatelům a poskytovatelům služeb, osobám označeným jako účastníci výroby či distribuce), uplatňuje se po marné výzvě **návrhem v řízení o porušení práva** – podle místní karty NS 23 Cdo 2765/2012 i v samostatném řízení po pravomocném vyslovení porušení – a podléhá výslovnému **testu přiměřenosti**. Zvláštní předpisy o mlčenlivosti, zákazu sebeobviňování a ochraně osobních údajů zůstávají nedotčeny.
 
 ### Opatření k nápravě
 
-§ 4 je jádrem **negatorní ochrany**. Oprávněná osoba se může domáhat zdržení se jednání, jímž dochází k porušení nebo **ohrožení** práva, a odstranění následků — zejména stažením výrobků z trhu, jejich trvalým odstraněním nebo zničením a zničením materiálů, nástrojů a zařízení užívaných převážně k porušování. Nároky jsou objektivní, nevyžadují zavinění a lze je směřovat i vůči **zprostředkovatelům**, jejichž prostředky či služby třetí osoby k porušování užívají. Zničení je krajním prostředkem; porušovatel v dobré víře může navrhnout **peněžní vyrovnání** namísto opatření a úspěšné oprávněné osobě může soud přiznat právo **uveřejnit rozsudek** na náklady porušovatele.
+§ 4 je jádrem **negatorní ochrany**. Oprávněná osoba se může domáhat zdržení se jednání, jímž dochází k porušení nebo **ohrožení** práva, a odstranění následků — zejména stažením výrobků z trhu, jejich trvalým odstraněním nebo zničením a zničením materiálů, nástrojů a zařízení užívaných převážně k porušování. Nároky jsou objektivní, nevyžadují zavinění a lze je směřovat i vůči **zprostředkovatelům**, jejichž prostředky či služby třetí osoby k porušování užívají; vůči nim lze podle místní karty NS 23 Cdo 1411/2021 uložit jen zdržení se poskytování určitých prostředků či služeb, nikoli předepsat způsob, jak se mají porušování vyvarovat, a podle karty NS 23 Cdo 2213/2017 po nich nelze požadovat zadostiučinění za nemajetkovou újmu. Zničení je krajním prostředkem; porušovatel v dobré víře může navrhnout **peněžní vyrovnání** namísto opatření a úspěšné oprávněné osobě může soud přiznat právo **uveřejnit rozsudek** na náklady porušovatele.
 
 ### Peněžité nároky a paušální náhrada
 
@@ -53,6 +53,18 @@ Obchodní tajemství není právem z průmyslového vlastnictví; jeho pojem a z
 ### Soustředění soudní agendy
 
 § 6 svěřuje spory o nárocích z průmyslového vlastnictví (včetně nároků podle části první), věci ochranných známek a (průmyslových) vzorů Společenství i přezkum pravomocných rozhodnutí Úřadu průmyslového vlastnictví ve správním soudnictví **Městskému soudu v Praze**, který jedná a rozhoduje ve **specializovaných senátech** složených z předsedy a dvou soudců. Zrcadlové pravidlo obsahuje § 39 odst. 2 zákona o soudech a soudcích, vložený § 8 ZVPPV.
+
+## Místní judikatura
+
+Složka [judikatura/](judikatura/README.md) obsahuje pět karet rozhodnutí Nejvyššího soudu (všechna kat. A), citovaných v kapitole 1 u tří ustanovení; ostatních 13 komentovaných jednotek místní kartu nemá.
+
+| Karta | Ustanovení | Co z ní plyne | Hranice |
+|---|---|---|---|
+| [NS 23 Cdo 1780/2017](judikatura/NS-23-Cdo-1780-2017.md) | § 2 odst. 1 (přímo) | zvláštními právními předpisy, z nichž plyne užívací oprávnění, nejsou míněny jen české předpisy | rozhodnutí z roku 2017, před novelou č. 286/2018 Sb.; konkrétní nečeský předpis karta neuvádí |
+| [NS 23 Cdo 2765/2012](judikatura/NS-23-Cdo-2765-2012.md) | § 3 odst. 2 (přímo) | informací se lze domáhat i v samostatném řízení po pravomocném skončení řízení, v němž bylo vysloveno porušení práva | neřeší řízení proti jiné osobě ani nárok bez jakéhokoli řízení o porušení; rozhodnutí z roku 2017 |
+| [NS 23 Cdo 1504/2024](judikatura/NS-23-Cdo-1504-2024.md) | § 3 (jen nepřímo) | podmínka selektivní distribuce luxusních výrobků, že distributor v posledních třech letech neporušil práva ke známce (spolu s kamennými prodejnami), sama není nedovoleným omezením soutěže podle čl. 101 odst. 1 SFEU | informační nárok nevykládá; rozhodnutí z roku 2025, pozdější než místní konsolidace |
+| [NS 23 Cdo 1411/2021](judikatura/NS-23-Cdo-1411-2021.md) | § 4 odst. 3 (přímo) | prostředníkovi lze uložit jen zdržení se poskytování určitých prostředků či služeb (úplně, nebo částečně), nikoli určit způsob, jak se má poskytování vyvarovat | rozhodnutí z roku 2023, pozdější než místní konsolidace; skutkový kontext karta neuvádí |
+| [NS 23 Cdo 2213/2017](judikatura/NS-23-Cdo-2213-2017.md) | § 4 odst. 3 a § 5 odst. 1 (nepřímo) | zadostiučinění za nemajetkovou újmu jen vůči porušovateli, nikoli vůči prostředníkovi; ochranu dobré pověsti právnické osoby nelze opřít o § 19b odst. 3 dřívějšího občanského zákoníku | druhá věta se týká zákona č. 40/1964 Sb.; o náhradě škody a bezdůvodném obohacení vůči prostředníkovi karta nemluví |
 
 ## Vazby na jiné předpisy
 
@@ -74,7 +86,7 @@ Obchodní tajemství není právem z průmyslového vlastnictví; jeho pojem a z
 
 - U každého paragrafu je v citačním bloku uvedeno **úplné doslovné znění** (bez elips), pod ním oddíl `**Výklad:**` a dále oddíly F. Kazuistika, G. Protiargumenty a rizika a H. Praktický závěr s kontrolním checklistem a přehledem typicky rozhodných důkazů.
 - Novelizační ustanovení (§ 8–14) jsou svou aplikací vyčerpána; komentář u nich stručně vysvětluje, co se měnilo, a odkazuje na platné znění novelizovaných předpisů, včetně stop původního názvu ZVPPV v dnešních zněních.
-- Komentář neobsahuje judikaturu ani spisové značky; tam, kde by výklad potřeboval oporu v rozhodovací praxi, otevřeně uvádí výkladovou otázku a argumenty pro jednotlivá řešení.
+- Komentář cituje jen pět místních karet rozhodnutí Nejvyššího soudu (§ 2, § 3 a § 4); za každou kartou následuje odstavec „K místní judikaturní kartě …“, který odlišuje přímý a nepřímý dosah karty a uvádí hranice závěru včetně rozhodného znění zákona. Jiné spisové značky komentář neuvádí; tam, kde místní karta chybí, otevřeně uvádí výkladovou otázku a argumenty pro jednotlivá řešení.
 
 ---
 
