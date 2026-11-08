@@ -76,6 +76,11 @@ Aktivní legitimace se posuzuje ke dni rozhodnutí soudu. U licenciáta je třeb
 
 „Zahájením řízení“ je podání žaloby (či návrhu na předběžné opatření) vlastníkem či majitelem ve věci téhož porušení. Zahájí-li vlastník řízení, licenciát se může domáhat ochrany svých zájmů v jeho rámci podle obecných procesních pravidel.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 1780/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EEC7543EC6739804C12582320041A01A?openDocument) — 6. 12. 2017, kat. A
+  > „„Zvláštními právními předpisy“ podle ustanovení § 2 odst. 1 zákona č. 221/2006 Sb., o vymáhání práv průmyslového vlastnictví, nejsou míněny jen české právní předpisy upravující práva průmyslového vlastnictví"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Společnost L je nevýhradním nabyvatelem licence k užitnému vzoru. Dne 3. 3. zjistí, že konkurent K prodává výrobky podle vzoru, a doporučeným dopisem to oznámí majiteli M; dopis je doručen 6. 3. M nereaguje. Dne 10. 4. podá L žalobu proti K.
@@ -158,6 +163,13 @@ Aktivní legitimace se posuzuje ke dni rozhodnutí soudu. U licenciáta je třeb
 
 **Výhrady (odst. 4).** Zůstávají nedotčeny zvláštní předpisy o širším právu na informace, o užití informací v civilním či trestním řízení, o odpovědnosti za zneužití práva na informaci, o **povinnosti mlčenlivosti** (pozn. 3: zákon o advokacii a zákon o patentových zástupcích), o právu odmítnout informaci, jíž by osoba připustila vlastní účast nebo účast osob blízkých na porušování (zákaz sebeobviňování), a o ochraně důvěrnosti zdrojů a **zpracování osobních údajů**. Poznámka pod čarou č. 4 odkazuje na zákon č. 101/2000 Sb., o ochraně osobních údajů; ten byl zrušen zákonem č. 110/2019 Sb., o zpracování osobních údajů, a dnes je třeba vycházet z něj a z nařízení (EU) 2016/679 (GDPR).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 1504/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F6BBEF3507A86927C1258CA4004D3A48?openDocument) — 30. 4. 2025, kat. A
+  > „Sama skutečnost, že vlastník ochranné známky při uvádění výrobků (parfémů a kosmetických výrobků) označených ochrannou známkou, jejichž vlastnosti u zákazníků vyvolávají dojem luxusu, na trh prostřednictvím systému selektivní distribuce, jehož cílem je zachování dobrého jména (image) těchto výrobků, uzavírá (licenční) smlouvy opravňující k uvádění těchto výrobků na trh pouze s osobami, jež v posledních třech letech neporušily práva k jeho ochranné známce a zároveň provozují alespoň po dobu jednoho roku minimálně tři tzv. kamenné prodejny způsobilé pro prodej těchto výrobků, nepředstavuje nedovolené omezení hospodářské soutěže podle čl. 101 odst. 1 Smlouvy o fungování Evropské unie"
+- *NS* [23 Cdo 2765/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B32FA99DBAF128AC1258171003C66A2?openDocument) — 23. 5. 2017, kat. A
+  > „Ustanovení § 3 odst. 2 zákona č. 221/2006 Sb. se aplikuje i na situaci, kdy se v samostatném řízení žalobce domáhá informací o původu a distribučních sítích zboží či služeb, kterými je porušováno právo duševního vlastnictví, poté, kdy bylo pravomocně ukončeno řízení, v němž bylo vysloveno, že bylo porušeno toto právo duševního vlastnictví"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Majitel průmyslového vzoru zjistí, že e-shop E prodává napodobeniny; E tvrdí, že je nakoupil od dodavatele D, jehož identitu odmítá sdělit. Napodobeniny dopravuje přepravce P.
@@ -231,6 +243,13 @@ Petit musí být formulován **určitě a vykonatelně** – konkrétním vymeze
 **Peněžní vyrovnání místo opatření (odst. 4).** Na **návrh porušovatele** může soud namísto opatření podle odst. 1 nařídit **zaplacení peněžního vyrovnání** oprávněné osobě. Podmínky jsou kumulativní: (i) porušovatel **nevěděl ani nemohl vědět** o porušení (objektivní dobrá víra), (ii) opatření by mu způsobila **nepřiměřenou újmu** a (iii) peněžní vyrovnání se jeví **dostatečným**. Důkazní břemeno nese porušovatel. Zákon výši vyrovnání u práv z průmyslového vlastnictví nestanoví; pro obchodní tajemství ji § 5a odst. 2 omezuje obvyklým licenčním poplatkem, což může sloužit jako vodítko i zde. Vyrovnání se týká jen opatření podle odst. 1 a nevylučuje nároky podle § 5.
 
 **Uveřejnění rozsudku (odst. 5).** Úspěšné oprávněné osobě může soud v rozsudku přiznat právo **uveřejnit rozsudek na náklady porušovatele**, který ve sporu neuspěl, a určit **rozsah, formu a způsob** uveřejnění. Jde o samostatný nárok, který je třeba navrhnout; slouží k informování trhu a k odrazujícímu účinku.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 1411/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F92F31BEB3A1CD14C125899C00182759?openDocument) — 24. 1. 2023, kat. A
+  > „Prostředníkovi může být podle § 4 odst. 3 zákona č. 221/2006 Sb. uložena pouze taková povinnost, jež spočívá ve zdržení se samotného poskytování určitých jím nabízených prostředků nebo služeb (a to podle okolností v úplném nebo částečném rozsahu), nikoli však taková povinnost, která v konečném důsledku představuje určení konkrétního způsobu, jakým se má prostředník takového poskytování (teprve) vyvarovat"
+- *NS* [23 Cdo 2213/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E3F5DB03095AEF53C125822F00368806?openDocument) — 29. 11. 2017, kat. A
+  > „Zadostiučinění za nemajetkovou újmu způsobenou porušením práva průmyslového vlastnictví se oprávněná osoba může domáhat pouze vůči porušovateli, nikoli vůči tzv. prostředníkovi. Ochrany dobré pověsti právnické osoby poškozené zásahem do práv průmyslového vlastnictví se nelze domáhat podle § 19b odst. 3 obč. zák"
 
 #### F. Kazuistika
 
